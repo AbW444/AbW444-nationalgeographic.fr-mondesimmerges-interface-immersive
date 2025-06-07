@@ -7,9 +7,8 @@ export default defineConfig({
   root: './',
   
   // IMPORTANT: Pour GitHub Pages - Remplacer par le nom exact de votre repo
-  base: process.env.NODE_ENV === 'production' 
-    ? '/page-interface-immersive/' 
-    : '/',
+  base: '/AbW444-nationalgeographic.fr-mondesimmerges-interface-immersive/',
+
   
   // Configuration du serveur de développement
   server: {
